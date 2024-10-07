@@ -1,0 +1,16 @@
+# Allow all user agents to access everything
+User-agent: *
+Disallow:
+
+# Allow specific directories
+Allow: /blog/
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# Block specific directories
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://example.com/sitemap.xml

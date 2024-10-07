@@ -1,0 +1,25 @@
+ const skills = [
+    // "devicon-html5-plain",
+    // "devicon-css3-plain",
+    "devicon-javascript-plain",
+    "devicon-tailwindcss-original",
+    "devicon-sass-original colored",
+    "devicon-materialui-plain",
+    "devicon-react-plain",
+    "devicon-redux-original colored",
+    "devicon-nodejs-plain",
+    "devicon-express-original",
+    "devicon-mongodb-plain",
+    "devicon-postgresql-plain",
+    "devicon-svelte-plain colored",
+    "devicon-gatsby-original",
+    "devicon-graphql-plain",
+    "devicon-jamstack-original colored",
+    "devicon-typescript-plain",
+    "devicon-git-plain",
+    "devicon-amazonwebservices-plain-wordmark colored",
+    "devicon-docker-plain",
+    "devicon-swagger-plain colored",
+    "devicon-jest-plain colored"
+  ]
+  export default skills;
